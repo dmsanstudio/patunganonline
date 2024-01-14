@@ -14,7 +14,7 @@ The list of permissions required by the app can be found in the `AndroidManifest
 
 | Permission | Why it is required |
 | :---: | --- |
-| <uses-permission android:name="com.android.vending.BILLING" /> | This is required to In-app Billing on Google Play provides a straightforward, simple interface for sending In-app Billing requests and managing In-app Billing transactions using Google Play |
+| com.android.vending.BILLING | This is required to In-app Billing on Google Play provides a straightforward, simple interface for sending In-app Billing requests and managing In-app Billing transactions using Google Play |
 
  <hr style="border:1px solid gray">
 
